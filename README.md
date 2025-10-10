@@ -11,7 +11,7 @@
 
 <hr>
 
-<h3>Projects</h3>
+<h3>Projects 📊</h3>
 <ul style="list-style: none; padding: 0;">
     <li><a href="https://mainstreet5.dothome.co.kr/001_parrallax/" target="_blank">Parrallax</a></li>
     <li><a href="https://mainstreet5.dothome.co.kr/002_montblanc/" target="_blank">Montblanc</a></li>
@@ -21,7 +21,7 @@
 <hr>
 
 
-<h3>languages</h3>
+<h3>languages 📚</h3>
 <!-- 뱃지 사용방법 -->
   <!-- 뱃지 아이콘 사이트 -->
   <!--   <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
@@ -32,10 +32,20 @@
 
 <hr>
 
-<h3>Tools</h3>
+<h3>Tools 🛠</h3>
 
 <p><img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;</p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20"
+
+<hr>
+
+<h3>Contact</h3>
+
+<b>mainstreet7456@gmail.com<b>
+
+<br>
+
+

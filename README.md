@@ -2,19 +2,15 @@
 <h3 align="center">
   풀스택 개발자를 꿈꾸는 승환입니다.
 </h3>
-<br /><br />
 <p>
-현재 풀스택 개발자를 지망하여 공부 중 입니다.
+현재 풀스택 개발자를 지망하여 공부 중 입니다.<br>
 많이 부족하지만 열심히 하겠습니다.
 </p>
 
 <hr>
 
 <h3>Projects</h3>
-- 
-- 
-- 
-- <ul style="list-style: none; padding: 0;">
+<ul style="list-style: none; padding: 0;">
     <li><a href="[https://github.com/ZeroBin-dev/MYMSG_BE](https://mainstreet5.dothome.co.kr/001_parrallax/)">Parrallax</a></li>
     <li><a href="https://github.com/ZeroBin-dev/CusCenBot">Montblanc</a></li>
     <li><a href="[https://github.com/ZeroBin-dev/YoutubePlayerWithKS](https://mainstreet5.dothome.co.kr/002_montblanc/)">Caxa</a></li>
@@ -34,9 +30,6 @@
 
 <hr>
 
-
-<br>
-<br>
 <h3>Tools</h3>
 
 <p><img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;</p>

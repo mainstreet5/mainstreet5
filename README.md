@@ -13,10 +13,10 @@
 
 <h3>Projects</h3>
 <ul style="list-style: none; padding: 0;">
-    <li><a href="[https://github.com/ZeroBin-dev/MYMSG_BE](https://mainstreet5.dothome.co.kr/001_parrallax/)">Parrallax</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/CusCenBot">Montblanc</a></li>
-    <li><a href="[https://github.com/ZeroBin-dev/YoutubePlayerWithKS](https://mainstreet5.dothome.co.kr/002_montblanc/)">Caxa</a></li>
-  <li><a href="https://github.com/ZeroBin-dev/YoutubePlayerWithKS">Apple_mobile</a></li>
+    <li><a href="https://mainstreet5.dothome.co.kr/001_parrallax/" target="_blank">Parrallax</a></li>
+    <li><a href="https://mainstreet5.dothome.co.kr/002_montblanc/" target="_blank">Montblanc</a></li>
+    <li><a href="https://mainstreet5.dothome.co.kr/003_caxa/" target="_blank">Caxa</a></li>
+  <li><a href="https://mainstreet5.dothome.co.kr/004_apple_mobile/" target="_blank">>Apple_mobile</a></li>
 </ul>
 <hr>
 

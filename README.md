@@ -42,9 +42,9 @@
 
 <hr>
 
-<h3>Contact</h3>
+<h3>Contact 📣</h3>
 
-<b>mainstreet7456@gmail.com<b>
+<b>📧 mainstreet7456@gmail.com<b>
 
 <br>
 

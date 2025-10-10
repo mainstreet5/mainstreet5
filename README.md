@@ -6,7 +6,7 @@
 <br>
 <p>
 현재 풀스택 개발자를 지망하여 공부 중 입니다.<br>
-많이 부족하지만 열심히 하겠습니다.
+아직 부족하지만 열심히 하겠습니다.
 </p>
 
 <hr>
@@ -16,7 +16,7 @@
     <li><a href="https://mainstreet5.dothome.co.kr/001_parrallax/" target="_blank">Parrallax</a></li>
     <li><a href="https://mainstreet5.dothome.co.kr/002_montblanc/" target="_blank">Montblanc</a></li>
     <li><a href="https://mainstreet5.dothome.co.kr/003_caxa/" target="_blank">Caxa</a></li>
-  <li><a href="https://mainstreet5.dothome.co.kr/004_apple_mobile/" target="_blank">>Apple_mobile</a></li>
+  <li><a href="https://mainstreet5.dothome.co.kr/004_apple_mobile/" target="_blank">Apple_mobile</a></li>
 </ul>
 <hr>
 
@@ -36,9 +36,3 @@
 
 <p><img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;</p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
